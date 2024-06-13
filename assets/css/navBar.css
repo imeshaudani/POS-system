@@ -1,0 +1,17 @@
+#navBar {
+    background: linear-gradient(to right, #05af18, #078a37);
+    position: relative;
+   
+    
+}
+.navbar-nav .nav-link {
+    color: #FFFFFF;
+    font-size: 25px;
+    margin-left: 150px;
+}
+
+.navbar-nav .nav-link button{
+    background-color: #3bfd00;
+    border: none;
+    color: #044d23;
+}

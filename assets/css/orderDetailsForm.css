@@ -1,0 +1,18 @@
+.order_details1{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+#orderDetailsForm{
+    align-items: center;
+    width: 1200px;
+    background: linear-gradient(180deg, #FFFFFF, rgba(0, 255, 102, 0.34));
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    --bs-card-cap-padding-x: 32rem;
+    left: 20%;
+}
+
+#order-details-table{
+    width: 1000px;
+}
